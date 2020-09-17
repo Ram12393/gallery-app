@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * ```npm install ``` to install all required dependencies
 
 
-# Install Json Server
+## Install & Run JSON Server
 
   * ```npm i -g json-server ``` to install Json server globally to get data from ```db.json``` file (fake API)
 
