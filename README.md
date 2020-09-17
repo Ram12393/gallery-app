@@ -21,6 +21,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Demo Screen Shot
 
-![Demo Screen shot](<>)
+![Demo Screen shot](<https://github.com/Ram12393/gallery-app/blob/master/demo.png>)
 
 
