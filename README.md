@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * Clone this repo ```https://github.com/Ram12393/gallery-app.git ```
 
-  * ```npm install ``` to install all required dependencies
+* ```npm install ``` to install all required dependencies
 
 
 # Install Json Server
