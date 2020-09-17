@@ -28,6 +28,7 @@ export class HeaderComponent implements OnInit {
       console.log(res);
       this.isLoggedIn = true;
       this.storageService.setItem('isLoggedIn', true);
+      this.getItems();
     });
   }
 

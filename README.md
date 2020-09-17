@@ -19,6 +19,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Auth Credentials
+
+    * valid email```abc@media.com``` and password ``` abc123```
+
+    * valid email```def@media.com``` and password ``` def123```
+
+
 ## Demo Screenshot
 
 ![Demo Screen shot](<https://github.com/Ram12393/gallery-app/blob/master/demo.png>)
