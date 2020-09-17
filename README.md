@@ -19,7 +19,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Demo Screen Shot
+## Demo Screenshot
 
 ![Demo Screen shot](<https://github.com/Ram12393/gallery-app/blob/master/demo.png>)
 
