@@ -1,0 +1,98 @@
+{
+  "images": [{
+      "id": 1,
+      "info": "Agra",
+      "img_name": "agra.jpg"
+    },
+    {
+      "id": 2,
+      "info": "Red Fort",
+      "img_name": "red_fort.jpg"
+    },
+    {
+      "id": 3,
+      "info": "Charminar",
+      "img_name": "charminar.jpg"
+    },
+    {
+      "id": 4,
+      "info": "awesome",
+      "img_name": "agra.jpg"
+    },
+    {
+      "id": 5,
+      "info": "Mahabalipuram",
+      "img_name": "mahabalipuram.jpeg"
+    },
+    {
+      "id": 6,
+      "info": "Konark Sun Temple",
+      "img_name": "Konark.jpeg"
+    },
+    {
+      "id": 7,
+      "info": "Golkonda",
+      "img_name": "golkonda.jpeg"
+    },
+    {
+      "id": 8,
+      "info": "Eiffel Tower",
+      "img_name": "eiffel.jpeg"
+    },
+    {
+      "id": 9,
+      "info": "Thousand Piller Temple",
+      "img_name": "thousand.jpg"
+    },
+    {
+      "id": 10,
+      "info": "Puri Jagannath",
+      "img_name": "puri.jpeg"
+    }
+  ],
+  "team": [{
+      "name": "Chris Wanstrath",
+      "path": "github.jpeg"
+    },
+    {
+      "name": "Erica Brescia",
+      "path": "linux.jpeg"
+    },
+    {
+      "name": "Ryan Dahl",
+      "path": "node.jpg"
+    }
+  ],
+  "users": [{
+      "userid": "abc@media.com",
+      "password": "abc123",
+      "username": "tom"
+    },
+    {
+      "userid": "def@media.com",
+      "password": "def123",
+      "username": "dick"
+    }
+  ],
+  "gallery": [{
+      "id": 1,
+      "info": "Node",
+      "img_name": "node.png"
+    },
+    {
+      "id": 2,
+      "info": "Angular",
+      "img_name": "angular.png"
+    },
+    {
+      "id": 3,
+      "info": "React",
+      "img_name": "react.png"
+    },
+    {
+      "id": 4,
+      "info": "JavaScript",
+      "img_name": "javascript.png"
+    }
+  ]
+}

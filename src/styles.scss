@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400&display=swap');
+@import "~bootstrap/dist/css/bootstrap.css";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+body,
+html {
+  margin: 0 !important;
+  font-family: 'Comic Neue', cursive;
+}
+:root {
+  --primary: #23cca2;
+  --secondary: #fff
+}
+.m-05{
+    margin: 0.5%
+}

@@ -1,0 +1,25 @@
+<div class="header">
+  <div>
+    <h1>Gallery</h1>
+  </div>
+  <div class="header-menu">
+    <ul>
+      <li>
+        <a routerLink="">Home</a>
+      </li>
+      <li>
+        <a routerLink="about">About</a>
+      </li>
+      <li *ngIf="isLoggedIn">
+        <a routerLink="gallery">Gallery</a>
+      </li>
+      <li *ngIf="!isLoggedIn">
+        <a routerLink="login">Login</a>
+      </li>
+      <li *ngIf="isLoggedIn" class="d-flex">
+        <p>{{userInfo?.userid}}</p>
+        <a (click)="logout()"> &nbsp;(logout)</a>
+      </li>
+    </ul>
+  </div>
+</div>
