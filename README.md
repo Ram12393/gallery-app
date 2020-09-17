@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Install Json Server
 
-  * ```npm i -g json-server ``` to install Json server to get data from ```db.json``` file (fake API)
+  * ```npm i -g json-server ``` to install Json server globally to get data from ```db.json``` file (fake API)
 
   *  Run the json server in the project repo ``` json-server --watch db.json``` 
 
